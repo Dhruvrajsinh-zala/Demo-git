@@ -1,1 +1,2 @@
+# File2
 Default branch, first file
